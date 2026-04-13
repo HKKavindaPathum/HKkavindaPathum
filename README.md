@@ -6,11 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hkkavindapathum&label=Profile%20views&color=0e75b6&style=flat" alt="hkkavindapathum" /> </p>
 
-- 🔭 I’m currently studying **Eastern University of Sri Lanka..**
+- 🎓 I have completed my Bachelor of Science in Computer Science at Eastern University of Sri Lanka**
 
-- 🌱 I’m currently learning **Bachelor of Computer Science.**
-
-- 📫 How to reach me **kavindapathum98@gmail.com**
+- 📫 How to reach me **hkkpldhananjaya@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
